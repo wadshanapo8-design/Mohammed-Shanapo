@@ -1,0 +1,6 @@
+{
+  "name": "سلسلة مطاعم كت كاك | KET KAK Restaurant",
+  "description": "الموقع الرسمي لسلسلة مطاعم كت كاك - KET KAK. استعرض قائمة طعام البروست والمشاوي، البيتزا الشهية، والعصائر المنعشة مع تكبير عالي الدقة وتجربة تصفح فاخرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

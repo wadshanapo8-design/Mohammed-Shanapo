@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sub_1794235921322_obhhc",
+    "type": "phone",
+    "normalized": "0912345678",
+    "subscribedAt": "2026-11-09T14:52:01.322Z",
+    "ip": "127.0.0.1"
+  },
+  {
+    "id": "sub_1794235993445_vklqk",
+    "type": "email",
+    "normalized": "customer@ketkak.com",
+    "subscribedAt": "2026-11-09T14:53:13.445Z",
+    "ip": "127.0.0.1"
+  }
+]

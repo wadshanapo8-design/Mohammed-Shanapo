@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ORD-892610-SGL",
+    "customerName": "أحمد عثمان",
+    "phone": "0912345678",
+    "address": "الخرطوم - الرياض",
+    "items": [
+      {
+        "itemId": "broast-4",
+        "name": "طلب بروست 4 قطعة",
+        "size": "قياسي",
+        "quantity": 2,
+        "unitPrice": "25.000",
+        "totalPrice": "50.000"
+      }
+    ],
+    "notes": "زيادة ثومية وكاتشب",
+    "status": "received",
+    "createdAt": "2026-11-09T15:24:52.610Z",
+    "ip": "127.0.0.1"
+  }
+]
